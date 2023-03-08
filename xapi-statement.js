@@ -25,4 +25,5 @@ const statement = {
     }
 }
 }
+const result = ADL.XAPIWrapper.sendStatement(statement);
 }
